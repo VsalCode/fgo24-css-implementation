@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Bellefair;
+}
+
+#container{
+  height: 100vh;
+  text-align: center;
+  background-color: #F6F6EE;
+}
+
+nav>span{
+  margin: 50px 0;
+  display: inline-block;
+}
+
+.kanan{
+  padding-left: 200px;
+}
+
+.kiri{
+  padding-right: 200px;
+}
+
+span>a{
+  color: #191917;
+  text-decoration: none;
+  padding: 0 5px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* --------------------------------------------------------------- */
+
+.main{
+  margin-top: 70px;
+}
+
+.main>h1{
+  font-size: 55px;
+  margin-bottom: 30px;
+}
+
+.main>p{
+  font-size: 20px;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+/* --------------------------------------------------------------- */
+
+button{
+  background-color: #191917;
+  color: white;
+  padding: 5px 20px;
+  font-size: 20px;
+  margin-top: 40px;
+  border-radius: 30px;
+}
