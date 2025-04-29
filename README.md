@@ -4,7 +4,7 @@ This time I practice slicing using HTML and CSS (without flexbox and grid) from 
 
 ## Preview
 
-![preview](./image.png)
+![image](https://github.com/user-attachments/assets/8cfb1555-7c3b-470c-9a6e-f591e95839e1)
 
 ## How To Run This Project
 
